@@ -1,0 +1,42 @@
+*{
+    
+}
+#a {
+    float: left;
+    width: 100%;
+    color:wheat;
+    height:400px;
+    text-align: center;
+    padding-top: 50px;
+    text-size:50px;
+    border:solid rebeccapurple 5px;
+    font-style: inherit;
+    background-color:black;
+  }
+  #d
+  {
+      color:#7EE8FA;
+      text-align:center;
+      background-color:black;
+  }
+  #e
+  {
+      height:300px;
+      width:1330px;
+      background-color:black;
+  }
+  #dd
+  {
+      font-style:Serif;
+      color:whitesmoke;
+      text-align: center;
+      background-color:black;
+  }
+  #f
+  {
+      font-size: 100px;;
+  }
+  #g
+  {
+      font-size:50px;
+  }
